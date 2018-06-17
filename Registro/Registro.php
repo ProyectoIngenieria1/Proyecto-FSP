@@ -14,9 +14,9 @@
     <title>crear una cuenta</title>
 
     <!-- inicio de todas las importaciones de la plantilla -->
-    <link href="/Proyecto/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/Proyecto/css/general.css" rel="stylesheet">
-  <link href="/Proyecto/css/custom.css" rel="stylesheet">
+    <link href="/Proyecto-FSP/registro/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/Proyecto-FSP/registro/css/general.css" rel="stylesheet">
+  <link href="/Proyecto-FSP/registro/css/custom.css" rel="stylesheet">
   <!-- fin de todas las importaciones de la plantilla -->
 
 </head>
@@ -44,13 +44,13 @@
           <span class="icon-bar"></span>
         </button>
         
-        <a class="navbar-brand" href="http://localhost/Proyecto2/login.php" title="Volver a la página principal">FAST SALES PLATFORM</a>
+        <a class="navbar-brand" href="" title="Volver a la página principal">FAST SALES PLATFORM</a>
       </div>
 
       <div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
         <ul class="nav navbar-nav">
           
-          <li class="menuItem"><a href="/Proyecto2/login.php">Volver a Inicio</a></li>
+          <li class="menuItem"><a href="http://localhost/Proyecto-FSP/registro/login.php">Volver a Inicio</a></li>
         </ul>
         
         <ul class="nav navbar-nav navbar-right">
@@ -178,9 +178,9 @@
   
 
     <!-- JavaScript -->
-    <script src="/Proyecto/js/jquery-1.10.2.js"></script>
-    <script src="/Proyecto/js/bootstrap.js"></script>
-  <script src="/Proyecto/js/script.js"></script>
+    <script src="/Proyecto-FSP/registro/js/jquery-1.10.2.js"></script>
+    <script src="/Proyecto-FSP/registro/js/bootstrap.js"></script>
+  <script src="/Proyecto-FSP/registro/js/script.js"></script>
 
  
  
